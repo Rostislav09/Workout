@@ -1,3 +1,5 @@
+import React from 'react';
+
 import { useState } from 'react'
 import { FiAlignRight, FiX } from 'react-icons/fi'
 

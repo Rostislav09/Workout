@@ -1,3 +1,6 @@
+import React from 'react';
+
+
 import styles from './field.module.scss'
 
 const Field = ({register,name,options,error, ...rest }) => {

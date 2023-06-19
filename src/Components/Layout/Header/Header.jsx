@@ -5,6 +5,8 @@ import { useLocation, useNavigate } from 'react-router-dom'
 
 import { useAuth } from '../../../hooks/useAuth'
 
+import React from 'react';
+
 import Hamburger from '../Hamburger/Hamburger'
 
 import styles from './header.module.scss'
